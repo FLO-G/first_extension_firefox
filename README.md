@@ -1,0 +1,1 @@
+This small extension allows you to frame the elements of a web page, within different colors
